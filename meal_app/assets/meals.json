@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Spaghetti",
+    "isVeg": false
+  },
+  {
+    "id": "2",
+    "name": "Salad",
+    "isVeg": true
+  },
+  {
+    "id": "3",
+    "name": "Grilled Chicken",
+    "isVeg": false
+  },
+  {
+      "id": "4",
+      "name": "Veggie Pizza",
+      "isVeg": true
+    },
+    {
+      "id": "5",
+      "name": "Chicken Burger",
+      "isVeg": false
+    },
+    {
+      "id": "6",
+      "name": "Paneer Tikka",
+      "isVeg": true
+    },
+    {
+      "id": "7",
+      "name": "Cheese Burger",
+      "isVeg": true
+    },
+    {
+      "id": "8",
+      "name": "Chicken Sandwich",
+      "isVeg": false
+    },
+    {
+      "id": "9",
+      "name": "Egg Curry",
+      "isVeg": false
+    },
+    {
+      "id": "10",
+      "name": "Veg Tacos",
+      "isVeg": true
+    }
+]
